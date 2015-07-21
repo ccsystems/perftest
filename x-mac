@@ -1,0 +1,1 @@
+gcc -O3 -o sdl-test sdl-main.c -lfontconfig -lfreetype -lpixman-1 -lSDL2 -L libs/mac -lcairo -lm -framework opengl -framework cocoa
